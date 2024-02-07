@@ -19,3 +19,10 @@ This repository will bring an indept look at GIT and GitHub processes for Branch
 <b> J. Create a new branch called feature/logout.  On this branch, write blue to file1.txt and make a new commit.</br>
 <b> K. Switch back to master, write green to file1.txt and make another commit.</br>
 <b> L. To merge your feature into master. You'll see a conflict. Resolve the conflict by accepting both changes.  When you're done merging, delete the new branch.</br>
+<b> K. Create a new branch called bugfix/login.  On this branch, write orange to file1.txt and make a commit.</br>
+<b> Switch back to master, write green to file2.txt and make another commit.</br>
+<b> View a graph of your branches. You'll see divergence.</br>
+<b> Rebase the new branch on top of master.</br>
+<b> View the graph of branches again.  Note that the divergence is gone.</br>
+<b> Do a fast-forward merge to bring the changes in the bugfix branch into master</br>
+
